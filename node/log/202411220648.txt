@@ -1,0 +1,4 @@
+2024-11-22 06:48:02 Classic Noir Dress|5|75|buy|product
+2024-11-22 06:48:05 Rose Petal Dress|6|58|buy|product
+2024-11-22 06:48:08 Crimson Charm Dress|4|70|buy|product
+2024-11-22 06:48:19 Azure Sky Shirt|8|65|add_to_cart|product

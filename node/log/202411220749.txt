@@ -1,0 +1,4 @@
+2024-11-22 07:49:06 Midnight Black Shirt|2|80|buy|product
+2024-11-22 07:49:09 Forest Green Shirt|11|65|buy|product
+2024-11-22 07:49:11 Golden Dusk Dress|12|65|buy|product
+2024-11-22 07:49:23 Sunset Hue Shirt|10|65|buy|product

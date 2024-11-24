@@ -1,0 +1,3 @@
+2024-11-22 06:46:26 Violet Elegance Dress|3|68|add_to_cart|product
+2024-11-22 06:46:27 Midnight Black Shirt|2|80|add_to_cart|product
+2024-11-22 06:46:29 Ocean Breeze Shirt|1|75|add_to_cart|product

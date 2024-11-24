@@ -1,0 +1,3 @@
+2024-11-22 05:43:44 Rose Petal Dress|6|58|buy|product
+2024-11-22 05:43:47 Emerald Mist Shirt|9|65|buy|product
+2024-11-22 05:43:49 Ebony Grace Dress|7|80|add_to_cart|product
